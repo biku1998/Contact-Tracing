@@ -4,3 +4,7 @@
 
 **Use cases**
 * Can be used to track infected subjects.
+
+### In action
+
+![action](https://github.com/biku1998/Contact-Tracing/blob/master/Tracking_in_action.gif)
